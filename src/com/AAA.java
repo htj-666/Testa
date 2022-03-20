@@ -1,7 +1,7 @@
 package com;
 
 public interface AAA {
-    //主3
+    //g4
     final int a = 10;
 }
 
