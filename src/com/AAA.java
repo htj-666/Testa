@@ -1,7 +1,7 @@
 package com;
 
 public interface AAA {
-    //主分子
+    //热秀分子
     final int a = 10;
 }
 
