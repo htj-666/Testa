@@ -1,8 +1,7 @@
 package com;
 
 public interface AAA {
-    //热2
-    //主2
+    //主3
     final int a = 10;
 }
 
